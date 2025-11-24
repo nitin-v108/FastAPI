@@ -1,6 +1,12 @@
 # FastAPI
 FastAPI code for beginner 
 
+> Free Learning Tutorials : 
+1. Python for Beginners (Full Course) | Programming Tutorial : https://youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&si=msTZk4A5CckyiZjU
+2. Python for Beginners (Full Course) | #100DaysOfCode Programming Tutorial in Hindi : https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg
+3. Paid: https://www.udemy.com/course/codewithharry-python/
+
+
 # Setup
 python -m venv env1
 
